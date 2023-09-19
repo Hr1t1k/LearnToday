@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="LearnToday.Controllers.StudentsRepoController">
+    <Position X="2.25" Y="3" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAABAAAAAAAAACAEAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Controllers\StudentsRepoController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LearnToday.Models.StudentRepository" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAACAIAgAAAAAAIAIAAAAAAAAAAA=</HashCode>
+      <FileName>Models\StudentRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="LearnToday.Models.Student">
+    <Position X="9.5" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAABAAAAAAAAAAAAAAAACAQAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Models\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="LearnToday.Models.IStudent">
+    <Position X="6.25" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAACAIAgAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Models\IStudent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
