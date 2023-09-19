@@ -4,6 +4,7 @@
 * text=auto
 *.html linguist-vendored
 *.js linguist-vendored
+myfile.py linguist-language=ADO.NET
 
 ###############################################################################
 # Set default behavior for command prompt diff.
