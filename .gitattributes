@@ -4,6 +4,7 @@
 * text=auto
 *.html linguist-vendored
 *.js linguist-vendored
+*.css linguist-vendored
 myfile.py linguist-language=ADO.NET
 
 ###############################################################################
